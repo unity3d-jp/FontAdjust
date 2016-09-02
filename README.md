@@ -1,8 +1,10 @@
 # FontAdjust について
 Unity5.3系→5.4等に移行すると、UguiのTextが Y方向にずれてしまう問題があります。<br />
-![alt text](53xto54x.png)
+![alt text](doc/img/53xto54x.png)
 
 5.3ベースで作成していただいた方々が、5.4以降にスムーズに移行する手助けのため、本ツールを用意させていただきました。<br />
+
+下記のような形で動作いたします<br />
 ![alt text](doc/img/FontAdjust.gif)  
 
 
