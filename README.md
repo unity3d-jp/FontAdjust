@@ -13,6 +13,8 @@ Unity5.3系→5.4等に移行すると、UguiのTextが Y方向にずれてし�
 
 # 使用方法等
 
+FontAdjust.unitypackage をプロジェクトにインポートすることで必要なものが入ります。<br />
+
 メニューの Tools/FontAdjust/FontAdjustWindowを呼び出すと下記ウィンドウが出てきます。<br />
 ![alt text](doc/img/FontAdjustWindow.png)  
 
